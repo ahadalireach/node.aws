@@ -1,0 +1,16 @@
+{
+  "name": "node.aws",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "A simple Node.js application running on AWS EC2",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
